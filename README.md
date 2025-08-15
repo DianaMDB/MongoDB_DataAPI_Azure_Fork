@@ -1,5 +1,5 @@
 MongoDB Connector provides a simple way to connect to MongoDB Atlas via Data APIs hosted using Azure function in your tenant to read and write data to MongoDB Atlas collections. MongoDB connector makes it easy to perform CRUD operations and aggregations on your data in minutes and allows you to query MongoDB to build rich apps and workflows in Power Apps, Power Automate and Logic Apps. 
-**Please note that MongoDB deprecated the Atlas Data APIs from September, 2025 and thus please use this connector mechnaism to set up an Azure function and use its url and API keys instead of Atlas' ones in your Apps and Flows.**
+** **Please note that MongoDB deprecated the Atlas Data APIs from September, 2025 and thus please use this connector mechnaism to set up an Azure function and use its url and API keys instead of Atlas' ones in your Apps and Flows.** **
 
 ## Prerequisites
 
